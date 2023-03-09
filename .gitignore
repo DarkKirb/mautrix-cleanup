@@ -1,0 +1,4 @@
+.direnv/
+result/
+config.old.py
+__pycache__/
